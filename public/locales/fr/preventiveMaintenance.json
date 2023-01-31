@@ -1,0 +1,12 @@
+{
+    "view_history_key": "View History",
+    "display_name_key": "Display Name",
+    "plate_number_key": "Plate Number",
+    "maintenance_key": "Maintenance",
+    "maintenance_type_key": "Maintenance type",
+    "period_type_key": "Period Type",
+    "start_value_key": "Start Value",
+    "next_value_key": "Next Value",
+    "recurring_key": "Recurring",
+    "reset_key": "Reset"
+}
